@@ -1,4 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/Basselope/collatio.png?label=ready&title=Ready)](https://waffle.io/Basselope/collatio)
+[![Stories in Ready](https://badge.waffle.io/Basselope/collatio.png?label=ready&title=Ready)](https://waffle.io/Basselope/collatio)
 COLLATIO
 ========
 *natural language parsing of social media data for use in marketing and sentiment analysis*
